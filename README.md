@@ -1,4 +1,5 @@
 **Gray Skies  - Braille To Print Translation Program**
+
 This program is intended to take a .BRF or .TXT file as input
 and output either a .TXT or .TEX file in print. This program is
 able to transcribe both literary Braille (using UEB rules) and
@@ -34,7 +35,8 @@ There may be a case where a correctly Brailled phrase is
 transcribed incorrectly in print. This is a bug, and is not
 intentional and needs to be fixed.
 
-** Log Files **
+**Log Files**
+
 There is a folder named "Log Files". This is used when there
 are disambiguation statements (places where the program will
 ask you what the symbol should be as it is transcribing, as
